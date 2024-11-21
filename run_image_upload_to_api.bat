@@ -1,0 +1,1 @@
+curl -X POST -F "file=@./tmp/a3.jpg" http://localhost:5000/upload
